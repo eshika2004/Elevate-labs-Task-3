@@ -32,3 +32,6 @@ This dashboard helps in understanding:
 - Global distribution of book sales.  
 
 This analysis enables **publishers, authors, and stakeholders** to identify market trends, optimize sales strategies, and focus on high-performing genres and regions.  
+
+
+Dataset used:- https://www.kaggle.com/datasets/thedevastator/books-sales-and-ratings
